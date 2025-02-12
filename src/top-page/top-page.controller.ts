@@ -8,8 +8,7 @@ import {
 	Patch,
 	Post,
 } from '@nestjs/common';
-import { FindProductDto } from 'src/product/dto/find-product.dto';
-import { ProductModel } from 'src/product/product.model';
+
 import { TopPageModel } from './top-page.model';
 import { FindTopPageDto } from './dto/find-top-page.dto';
 
