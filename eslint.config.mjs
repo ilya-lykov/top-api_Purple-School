@@ -31,7 +31,8 @@ export default tseslint.config(
 			'@typescript-eslint/no-floating-promises': 'warn',
 			'@typescript-eslint/no-unsafe-argument': 'warn',
 			'indent': ["error", "tab"],
-			'endOfLine': ["error", "lf"]
+			'endOfLine': ["error", "lf"],
+
 		},
 
 	},
