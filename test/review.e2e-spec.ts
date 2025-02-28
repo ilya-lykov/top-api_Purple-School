@@ -22,7 +22,7 @@ const loginDto: AuthDto = {
 	password: '1'
 }
 
-describe('AppController (e2e)', () => {
+describe('ReviewController (e2e)', () => {
 	let app: INestApplication;
 	let createdId: string;
 	let token:string;
